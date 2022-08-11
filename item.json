@@ -1,0 +1,44 @@
+[
+    {
+        "name": "i5-12400",
+        "type_contacts": "LGA 1700",
+        "price": 299.99,
+        "company": "INTEL",
+        "id": "e1a049239a2b41b3ac33c2fb273952f3"
+    },
+    {
+        "name": "i7-12700",
+        "type_contacts": "LGA 1700",
+        "price": 359.99,
+        "company": "INTEL",
+        "id": "6bf6be5b18a34efba60436c0c36708c4"
+    },
+    {
+        "name": "i3-12100",
+        "type_contacts": "LGA 1700",
+        "price": 139.99,
+        "company": "INTEL",
+        "id": "394cee1cdace4d8e9cd7ea1eb4655505"
+    },
+    {
+        "name": "Ryzen7 5700X",
+        "type_contacts": "AM4",
+        "price": 299.99,
+        "company": "AMD",
+        "id": "3475d366b0534585afc60dd146d3376f"
+    },
+    {
+        "name": "Ryzen5 5500",
+        "type_contacts": "AM4",
+        "price": 159.0,
+        "company": "AMD",
+        "id": "1a8b2ea3167142de82496d35c91f5785"
+    },
+    {
+        "name": "Ryzen5 5600",
+        "type_contacts": "AM4",
+        "price": 199.0,
+        "company": "AMD",
+        "id": "124af0bbceed49588a232e70b2d057fd"
+    }
+]

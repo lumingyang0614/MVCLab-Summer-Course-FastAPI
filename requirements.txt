@@ -1,0 +1,7 @@
+fastapi
+pyquery
+pydantic
+python-multipart
+typing
+uuid
+uvicorn
